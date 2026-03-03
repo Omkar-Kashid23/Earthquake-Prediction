@@ -1,0 +1,13 @@
+# Core Data Manipulation
+numpy>=1.26.0
+pandas>=2.0.0
+
+# Data Visualization
+matplotlib>=3.8.0
+
+# Machine Learning
+scikit-learn>=1.6.0
+
+# Jupyter Environment (to run the notebook)
+jupyter>=1.0.0
+ipykernel>=6.0.0
