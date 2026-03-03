@@ -70,7 +70,7 @@ pip install numpy pandas matplotlib scikit-learn
 ├── Earthquack.ipynb              # Main Jupyter Notebook containing analysis
 ├── earthquake_alert_balanced_dataset.csv  # Dataset
 ├── requriments.txt
-├── Doc.docx
+├── Earthquake_Alert_Prediction_Documentation.docx
 ├── Best_model_for_Earthquack.pkl
 └── README.md                     # Project documentation
 ```
